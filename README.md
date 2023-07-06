@@ -46,12 +46,12 @@
     <h3>Machine Learning Melbourne City Analytics 📄</h3>
     <img alt='Pandas' width='500px' src='./price_house_melbourne/assets/img/pandas-python.png'/>
     <h3>Análise realizada em duas etapas</h3>
-    <h5>Relatório Rapido com ProfileReport</h5>
-    <p>Clique no Botão e Veja o Código e Plots Gerados no Projeto:</p>
-    <a href=''><img alt='Button'width='200px' src='./price_house_melbourne/assets/img/image.png'/></a>
-    <p>Clique no Botão e Veja o Relatório Gerado em HTML:</p>
-    <a href=''><img alt='Button'width='200px' src='./price_house_melbourne/assets/img/image.png'/></a>
     <h5>Relatório Machine Learning com Pandas</h5>
     <p>Clique no Botão e Veja o Código, Regressão Linear e Árvore de Desisão</p>
-    <a href=''><img alt='Button'width='200px' src='./price_house_melbourne/assets/img/image.png'/></a>
+    <a href='https://github.com/Brunonavarrooficial/MachineLearning_MelbourneAnalytics/blob/main/price_house_melbourne/house_price_preview.ipynb'><img alt='Button'width='200px' src='./price_house_melbourne/assets/img/image.png'/></a>
+    <h5>Relatório Rapido com ProfileReport</h5>
+    <p>Clique no Botão e Veja o Código e Plots Gerados no Projeto:</p>
+    <a href='https://github.com/Brunonavarrooficial/MachineLearning_MelbourneAnalytics/blob/main/price_house_melbourne/house_price_preview_ProfileReport.ipynb'><img alt='Button'width='200px' src='./price_house_melbourne/assets/img/image.png'/></a>
+    <p>Clique no Botão e Veja o Relatório Gerado em HTML:</p>
+    <a href='https://github.com/Brunonavarrooficial/MachineLearning_MelbourneAnalytics/blob/main/price_house_melbourne/assets/docs/profile.html'><img alt='Button'width='200px' src='./price_house_melbourne/assets/img/image.png'/></a>
 </div>
